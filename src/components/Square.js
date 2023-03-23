@@ -29,19 +29,7 @@ export default function Square() {
         </div>
       ))}
 
-      {/* <input value={name} onChange={(e) => setName(e.target.value)} />
-      <button
-        onClick={() => {
-          setArtists([...artists, { id: nextId++, name: name }]);
-        }}
-      >
-        Add
-      </button>
-      <ul>
-        {artists.map((artist) => (
-          <li key={artist.id}>{artist.name}</li>
-        ))}
-      </ul> */}
+
     </>
   );
 }
